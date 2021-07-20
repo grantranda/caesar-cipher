@@ -17,7 +17,7 @@ fn main() {
     let data = AppData {
         current_view: 0,
         conversion: ConversionType::Encryption,
-        shift: 6.0,
+        shift: 3.0,
         plaintext: "".to_string().into(),
         ciphertext: "".to_string().into(),
     };
